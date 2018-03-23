@@ -3,7 +3,7 @@
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
 ![alt tag](https://github.com/tjbeirao/jungle-rails/blob/master/docs/mainPage.png "Main Page of Jungle")
-![alt tag](https://github.com/tjbeirao/jungle-rails/blob/master/docs/producDetails.png "Product Details")
+![alt tag](https://github.com/tjbeirao/jungle-rails/blob/master/docs/productDetails.png "Product Details")
 ![alt tag](https://github.com/tjbeirao/jungle-rails/blob/master/docs/Cart.png "Cart")
 ![alt tag](https://github.com/tjbeirao/jungle-rails/blob/master/docs/orders_2.png "Order done")
 
